@@ -77,80 +77,105 @@ I have experience with **Amazon, Future Tech, Delta X**, and I am also a member 
 
 ### 💼 Project Portfolio
 
-<p><strong>AI & Intelligence Platforms</strong></p>
-<ul>
-  <li><a href="https://github.com/zahikabasdar/employee-insights-hub">Employee-Insights-Hub</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/Retail-Product-Intelligence-Engine">Retail-Product-Intelligence-Engine</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/Medicalpedia">Medicalpedia</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/All-in-one-ai">All-in-one-ai</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/universal-knowledge-engine">universal-knowledge-engine</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/REALITY-OPERATING-SYSTEM-R-OS-">REALITY-OPERATING-SYSTEM-R-OS-</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/AI-Fitness-Trainer">AI-Fitness-Trainer</a></li>
-</ul>
+<div align="center">
 
-<p><strong>Chat, Hybrid & System Apps</strong></p>
-<ul>
-  <li><a href="https://github.com/zahikabasdar/hybrid-chat">hybrid-chat</a> – <code>C</code></li>
-  <li><a href="https://github.com/zahikabasdar/code-universe">code-universe</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/air-canvas-draw">air-canvas-draw</a> – <code>TypeScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/resume-maker">resume-maker</a> – <code>TypeScript</code></li>
-</ul>
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Projects</th>
+  </tr>
 
-<p><strong>Web & Portal Projects</strong></p>
-<ul>
-  <li><a href="https://github.com/zahikabasdar/student-result-system">student-result-system</a> – <code>HTML</code></li>
-  <li><a href="https://github.com/zahikabasdar/ecotrack">ecotrack</a> – <code>HTML</code></li>
-  <li><a href="https://github.com/zahikabasdar/retail-inventory-billing-system">retail-inventory-billing-system</a> – <code>HTML</code></li>
-  <li><a href="https://github.com/zahikabasdar/lostfound-portal">lostfound-portal</a> – <code>JavaScript</code></li>
-  <li><a href="https://github.com/zahikabasdar/Smart-Time-Table">Smart-Time-Table</a> – <code>CSS</code></li>
-  <li><a href="https://github.com/zahikabasdar/smart-route-optimizer">smart-route-optimizer</a> – <code>HTML</code></li>
-  <li><a href="https://github.com/zahikabasdar/Tourism-Management-System">Tourism-Management-System</a></li>
-</ul>
+  <tr>
+    <td><strong>AI & Intelligence Platforms</strong></td>
+    <td>
+      • <a href="https://github.com/zahikabasdar/employee-insights-hub">Employee-Insights-Hub</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/Retail-Product-Intelligence-Engine">Retail-Product-Intelligence-Engine</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/Medicalpedia">Medicalpedia</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/All-in-one-ai">All-in-one-ai</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/universal-knowledge-engine">universal-knowledge-engine</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/REALITY-OPERATING-SYSTEM-R-OS-">REALITY-OPERATING-SYSTEM-R-OS-</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/AI-Fitness-Trainer">AI-Fitness-Trainer</a>
+    </td>
+  </tr>
 
-<p><strong>Backend & Full Stack</strong></p>
-<ul>
-  <li><a href="https://github.com/zahikabasdar/Alumni-Meet-Planning-System">Alumni-Meet-Planning-System</a> – <code>Python (Flask + SQLite)</code></li>
-  <li><a href="https://github.com/zahikabasdar/smart-chatbot-zahik">smart-chatbot-zahik</a></li>
-  <li>student-attendance-tracker</li>
-  <li>DigitalLocker-project</li>
-</ul>
+  <tr>
+    <td><strong>Chat, Hybrid & System Apps</strong></td>
+    <td>
+      • <a href="https://github.com/zahikabasdar/hybrid-chat">hybrid-chat</a> – <code>C</code><br/>
+      • <a href="https://github.com/zahikabasdar/code-universe">code-universe</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/air-canvas-draw">air-canvas-draw</a> – <code>TypeScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/resume-maker">resume-maker</a> – <code>TypeScript</code>
+    </td>
+  </tr>
 
-<p><strong>Private / In-Progress Builds</strong></p>
-<ul>
-  <li>pctebus-buddy – <code>TypeScript</code> (Private)</li>
-  <li>lovab-bus-vue – <code>TypeScript</code> (Private)</li>
-  <li>livestock-zenith – <code>TypeScript</code> (Private)</li>
-  <li>campus-ignite-lab – <code>TypeScript</code> (Private)</li>
-  <li>green-footprints-app – <code>TypeScript</code> (Private)</li>
-  <li>parkings – Software & Hardware Project (Private)</li>
-  <li>Tourism Management System – Updated Edition (Private fork of original)</li>
-  <li>gh-repo-clone-Matthew1906-100DaysOfPython – <code>HTML</code> (Private)</li>
-</ul>
+  <tr>
+    <td><strong>Web & Portal Projects</strong></td>
+    <td>
+      • <a href="https://github.com/zahikabasdar/student-result-system">student-result-system</a> – <code>HTML</code><br/>
+      • <a href="https://github.com/zahikabasdar/ecotrack">ecotrack</a> – <code>HTML</code><br/>
+      • <a href="https://github.com/zahikabasdar/retail-inventory-billing-system">retail-inventory-billing-system</a> – <code>HTML</code><br/>
+      • <a href="https://github.com/zahikabasdar/lostfound-portal">lostfound-portal</a> – <code>JavaScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/Smart-Time-Table">Smart-Time-Table</a> – <code>CSS</code><br/>
+      • <a href="https://github.com/zahikabasdar/smart-route-optimizer">smart-route-optimizer</a> – <code>HTML</code><br/>
+      • <a href="https://github.com/zahikabasdar/Tourism-Management-System">Tourism-Management-System</a>
+    </td>
+  </tr>
 
-<p>
+  <tr>
+    <td><strong>Backend & Full Stack</strong></td>
+    <td>
+      • <a href="https://github.com/zahikabasdar/Alumni-Meet-Planning-System">Alumni-Meet-Planning-System</a> – <code>Python (Flask + SQLite)</code><br/>
+      • <a href="https://github.com/zahikabasdar/smart-chatbot-zahik">smart-chatbot-zahik</a><br/>
+      • student-attendance-tracker<br/>
+      • DigitalLocker-project
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Private / In-Progress Builds</strong></td>
+    <td>
+      • pctebus-buddy – <code>TypeScript</code> (Private)<br/>
+      • lovab-bus-vue – <code>TypeScript</code> (Private)<br/>
+      • livestock-zenith – <code>TypeScript</code> (Private)<br/>
+      • campus-ignite-lab – <code>TypeScript</code> (Private)<br/>
+      • green-footprints-app – <code>TypeScript</code> (Private)<br/>
+      • parkings – Software & Hardware Project (Private)<br/>
+      • Tourism Management System – Updated Edition (Private fork)<br/>
+      • gh-repo-clone-Matthew1906-100DaysOfPython – <code>HTML</code> (Private)
+    </td>
+  </tr>
+</table>
+
+<p align="left">
 Currently maintaining <strong>30+ repositories</strong> (public + private) across <strong>TypeScript, JavaScript, Python, C, HTML, CSS</strong> and more.  
 Dynamic cards below show live <strong>repo count, languages & contributions</strong>.
 </p>
 
+</div>
+
 ---
 
-### 🚀 GitHub Stats
+### 📌 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahikabasdar&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=zahikabasdar&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
+  <!-- Big profile details box (contributions, streak, etc.) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahikabasdar&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahikabasdar&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <!-- Streak in box style -->
+  <img src="https://streak-stats.demolab.com?user=zahikabasdar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📦 GitHub Overview & Tech Stack
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahikabasdar&theme=tokyonight" alt="GitHub Summary Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahikabasdar&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahikabasdar&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahikabasdar&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Repo" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 ---
@@ -165,9 +190,9 @@ Dynamic cards below show live <strong>repo count, languages & contributions</str
 ### 🏆 Highlights & Experience
 - **Delta X | Future Tech | Amazon**  
 - **ABFI Member**  
-- Over **9000+ professional connections**  
+- Over **500+ professional connections**  
 - Based in **Sopore, Jammu & Kashmir, India**  
-- 9000+ followers across platforms  
+- 6,401+ followers across platforms  
 
 ---
 

@@ -5,7 +5,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Software+Engineer+%7C+UI%2FUX+Specialist;Building+OmniData+Insight+Engine+(World+Scale+AI%2FML);Chatbots+%7C+Data+Pipelines+%7C+Cloud+%7C+DevOps;Always+learning%2C+never+getting+tired+⚡" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Data+Analyst+%7C+Software+Engineer+%7C+UI%2FUX+Specialist;Building+OmniData+Insight+Engine+(World+Scale+AI%2FML);Chatbots+%7C+Data+Pipelines+%7C+Cloud+%7C+DevOps;Always+learning%2C+never+getting+tired+⚡"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -24,12 +27,12 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I’m a passionate <strong>Software Engineer & Data Analyst</strong> from India, working across<br/>
+I’m a passionate <strong>Software Engineer &amp; Data Analyst</strong> from India, working across<br/>
 <strong>Data Analytics, AI/ML, Prompt Engineering, APIs, DevOps and UI/UX</strong>.  
 </p>
 
 <p align="center">
-Currently building <strong>OmniData Insight Engine</strong> – a <strong>world-scale data analytics & AI/ML platform</strong>  
+Currently building <strong>OmniData Insight Engine</strong> – a <strong>world-scale data analytics &amp; AI/ML platform</strong>  
 for turning raw data into intelligent, real-time decisions.
 </p>
 
@@ -47,8 +50,8 @@ Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>
 
 <ul>
   <li>
-    <strong>Flagship Project (World-Scale Data & AI/ML)</strong><br/>
-    <strong>OmniData Insight Engine</strong> – End-to-end data analytics & AI/ML platform (in progress)
+    <strong>Flagship Project (World-Scale Data &amp; AI/ML)</strong><br/>
+    <strong>OmniData Insight Engine</strong> – End-to-end data analytics &amp; AI/ML platform (in progress)
   </li>
   <br/>
   <li>
@@ -58,7 +61,7 @@ Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>
       <li><a href="https://github.com/zahikabasdar/Smart-Time-Table">Smart-Time-Table</a> – CSS</li>
       <li><a href="https://github.com/zahikabasdar/smart-chatbot-zahik">Smart-Chatbot-Zahik</a></li>
       <li><a href="https://github.com/zahikabasdar/smart-route-optimizer">Smart-Route-Optimizer</a> – HTML</li>
-      <li>Parkings (Private) – Software & Hardware Project</li>
+      <li>Parkings (Private) – Software &amp; Hardware Project</li>
       <li><a href="https://github.com/zahikabasdar/ZahikAbasdar">ZahikAbasdar</a> – Public Repo</li>
     </ul>
   </li>
@@ -134,9 +137,9 @@ Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>
   </tr>
 
   <tr>
-    <td><strong>AI & Intelligence Platforms</strong></td>
+    <td><strong>AI &amp; Intelligence Platforms</strong></td>
     <td>
-      • <strong>OmniData Insight Engine</strong> – World-scale Data Analytics & AI/ML Platform (Flagship)<br/>
+      • <strong>OmniData Insight Engine</strong> – World-scale Data Analytics &amp; AI/ML Platform (Flagship)<br/>
       • <a href="https://github.com/zahikabasdar/employee-insights-hub">Employee Insights Hub</a> – <code>TypeScript</code><br/>
       • <a href="https://github.com/zahikabasdar/Retail-Product-Intelligence-Engine">Retail Product Intelligence Engine</a> – <code>TypeScript</code><br/>
       • <a href="https://github.com/zahikabasdar/Medicalpedia">Medicalpedia</a> – <code>TypeScript</code><br/>
@@ -148,7 +151,7 @@ Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>
   </tr>
 
   <tr>
-    <td><strong>Chat, Hybrid & System Apps</strong></td>
+    <td><strong>Chat, Hybrid &amp; System Apps</strong></td>
     <td>
       • <a href="https://github.com/zahikabasdar/hybrid-chat">Hybrid Chat Framework</a> – <code>C</code><br/>
       • <a href="https://github.com/zahikabasdar/code-universe">Code Universe</a> – <code>TypeScript</code><br/>
@@ -158,12 +161,12 @@ Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>
   </tr>
 
   <tr>
-    <td><strong>Web & Portal Projects</strong></td>
+    <td><strong>Web &amp; Portal Projects</strong></td>
     <td>
       • <a href="https://github.com/zahikabasdar/student-result-system">Student Result System</a> – <code>HTML</code><br/>
       • <a href="https://github.com/zahikabasdar/ecotrack">EcoTrack</a> – <code>HTML</code><br/>
       • <a href="https://github.com/zahikabasdar/retail-inventory-billing-system">Retail Inventory Billing System</a> – <code>HTML</code><br/>
-      • <a href="https://github.com/zahikabasdar/lostfound-portal">Lost & Found Portal</a> – <code>JavaScript</code><br/>
+      • <a href="https://github.com/zahikabasdar/lostfound-portal">Lost &amp; Found Portal</a> – <code>JavaScript</code><br/>
       • <a href="https://github.com/zahikabasdar/Smart-Time-Table">Smart Time Table</a> – <code>CSS</code><br/>
       • <a href="https://github.com/zahikabasdar/smart-route-optimizer">Smart Route Optimizer</a> – <code>HTML</code><br/>
       • <a href="https://github.com/zahikabasdar/Tourism-Management-System">Tourism Management System</a>
@@ -171,7 +174,7 @@ Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>
   </tr>
 
   <tr>
-    <td><strong>Backend & Full Stack</strong></td>
+    <td><strong>Backend &amp; Full Stack</strong></td>
     <td>
       • <a href="https://github.com/zahikabasdar/Alumni-Meet-Planning-System">Alumni Meet Planning System</a> – <code>Python (Flask + SQLite)</code><br/>
       • <a href="https://github.com/zahikabasdar/smart-chatbot-zahik">Smart Chatbot Zahik</a><br/>
@@ -184,20 +187,20 @@ Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>
     <td><strong>Private / In-Progress Builds</strong></td>
     <td>
       • <strong>PCTE Bus Buddy</strong> – Campus Transit Assistant – <code>TypeScript</code> (Private)<br/>
-      • <strong> Bus Vue Dashboard</strong> – Real-time Bus Monitoring – <code>TypeScript</code> (Private)<br/>
-      • <strong>Livestock Zenith Suite</strong> – Smart Livestock & Farm Ops – <code>TypeScript</code> (Private)<br/>
-      • <strong>Campus Ignite Lab</strong> – Events & Innovation Hub – <code>TypeScript</code> (Private)<br/>
-      • <strong>Green Footprints</strong> – Sustainability & Carbon Tracker – <code>TypeScript</code> (Private)<br/>
+      • <strong>Bus Vue Dashboard</strong> – Real-time Bus Monitoring – <code>TypeScript</code> (Private)<br/>
+      • <strong>Livestock Zenith Suite</strong> – Smart Livestock &amp; Farm Ops – <code>TypeScript</code> (Private)<br/>
+      • <strong>Campus Ignite Lab</strong> – Events &amp; Innovation Hub – <code>TypeScript</code> (Private)<br/>
+      • <strong>Green Footprints</strong> – Sustainability &amp; Carbon Tracker – <code>TypeScript</code> (Private)<br/>
       • <strong>SmartParking IoT System</strong> – Software + Hardware Parking Automation (Private)<br/>
       • <strong>Tourism Management – Advanced Edition</strong> – Enhanced private fork (Private)<br/>
-      • <strong>100 Days of Python Practice</strong> – Learning & Experiments – <code>HTML</code> (Private)
+      • <strong>100 Days of Python Practice</strong> – Learning &amp; Experiments – <code>HTML</code> (Private)
     </td>
   </tr>
 </table>
 
 <p align="left">
 Maintaining <strong>30+ repositories</strong> (public + private) across <strong>TypeScript, JavaScript, Python, C, HTML, CSS</strong> and more.  
-Dynamic cards below show live <strong>repo count, languages & contributions</strong>.
+Dynamic cards below show live <strong>repo count, languages &amp; contributions</strong>.
 </p>
 
 </div>
@@ -213,17 +216,16 @@ Dynamic cards below show live <strong>repo count, languages & contributions</str
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahikabasdar&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
+<!-- streak + top languages by commit ON SAME ROW -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zahikabasdar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zahikabasdar&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Commit" height="180" />
 </p>
 
+<!-- stats + repos per language ON SAME ROW -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahikabasdar&theme=tokyonight" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Repo" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahikabasdar&theme=tokyonight" alt="Stats Card" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Repo" height="180" />
 </p>
 
 <p align="center">
@@ -242,13 +244,13 @@ Dynamic cards below show live <strong>repo count, languages & contributions</str
 </p>
 
 <!--  HIGHLIGHTS  -->
-<h2 align="center">🏆 Highlights & Experience</h2>
+<h2 align="center">🏆 Highlights &amp; Experience</h2>
 
 <ul>
   <li><strong>Amazon | Delta X | Future Tech</strong></li>
   <li><strong>ABFI Member</strong></li>
-  <li>8,000+ followers & 8000+ professional connections</li>
-  <li>Based in <strong>Sopore, Jammu & Kashmir, India</strong></li>
+  <li>8,000+ followers &amp; 500+ professional connections</li>
+  <li>Based in <strong>Sopore, Jammu &amp; Kashmir, India</strong></li>
 </ul>
 
 ---
@@ -264,5 +266,5 @@ Dynamic cards below show live <strong>repo count, languages & contributions</str
 </p>
 
 <p align="center">
-  <strong>✨ Thanks for scrolling! Let’s build something insane with Data & AI/ML. ✨</strong>
+  <strong>✨ Thanks for scrolling! Let’s build something insane with Data &amp; AI/ML. ✨</strong>
 </p>

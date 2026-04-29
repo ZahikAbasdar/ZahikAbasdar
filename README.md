@@ -1,210 +1,293 @@
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header&text=Zahik%20Abas&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,70:0d2137,100:0d1117&height=200&section=header&text=Zahik%20Abas&fontSize=52&fontColor=58a6ff&fontAlignY=45&desc=Data%20Analyst%20%C2%B7%20AI%20Engineer%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=68&descFontColor=8b949e&animation=fadeIn" width="100%"/>
 
-<h3>Data Analyst · AI Engineer · Problem Solver</h3>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions.;Building+AI+systems+that+actually+ship.;Open+to+full-time%2C+part-time+%26+freelance+roles.)](https://git.io/typing-svg)
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Zahik%20Abas-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:zahikabas.btec@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zahikabas.btec@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://personal-pt-react-threejs.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://medium.com/@zahikabas.btec">
-    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ZahikAbasdar&style=flat-square&color=2c5364&label=Profile+Views"/>
+  <a href="https://leetcode.com/u/ZahikAbas">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=ZahikAbasdar&style=flat-square&color=58a6ff&label=Profile+Views" />
 
 </div>
 
----
-
-## 👋 About Me
-
-I'm a **Data Analyst and AI Engineer** currently interning at **Accenture** (Data Analytics) and **Sure Trust** (Data Science), building a foundation in real-world data pipelines and machine learning systems.
-
-I'm based in **Sopore, J&K, India** and actively seeking **full-time, part-time, and freelance roles** where I can contribute to data-driven products and AI-powered solutions.
-
-My work sits at the intersection of **data analysis**, **ML engineering**, and **applied problem solving** — taking raw data from messy to meaningful.
+<br/>
 
 ---
 
-## 🔧 What I Do
+## 🧠 Who I Am
 
-- **Data Analysis & Visualization** — Translating business questions into SQL queries, dashboards (Power BI, Tableau), and actionable insights
-- **Machine Learning & NLP** — Building and evaluating models for classification, regression, and text analysis tasks
-- **Data Engineering (Basics)** — Designing clean ETL workflows with Python, Pandas, and Flask APIs
-- **Full-Stack Prototyping** — React + Node.js frontends connected to ML backends for end-to-end demos
-- **DSA & Algorithmic Thinking** — 500+ problems solved; consistent practice on LeetCode and GeeksforGeeks
+I'm a **Data Analyst and AI Engineer** based in **Sopore, J&K, India** — currently interning at **Accenture** (Data Analytics) and **Sure Trust** (Data Science), building real pipelines and shipping real projects.
+
+I work at the crossroads of **data analysis, machine learning, and AI-powered tooling** — turning messy real-world datasets into systems that produce measurable outcomes.
+
+I'm actively seeking **full-time, part-time, and freelance opportunities** in data analytics, ML engineering, and AI product development.
+
+---
+
+## ⚡ What I Do
+
+```python
+zahik = {
+    "role"    : "Data Analyst | AI Engineer",
+    "focus"   : ["Data Pipelines", "ML Systems", "Business Analytics", "NLP"],
+    "stack"   : ["Python", "SQL", "React", "Flask", "Power BI"],
+    "open_to" : ["Full-time", "Part-time", "Freelance / Contract"],
+    "location": "Sopore, J&K, India  (Remote-friendly)"
+}
+```
+
+- 📊 **Data Analysis & Visualization** — SQL, Power BI, Tableau, Pandas — from raw data to clear insight
+- 🤖 **ML & NLP Systems** — end-to-end pipelines: ingestion → modeling → evaluation → deployment
+- 🔁 **AI-Powered Tools** — building agents and automation layers on top of data workflows
+- 🌐 **Full-Stack Prototyping** — React + Flask to demonstrate and deploy ML models live
+- 🧩 **DSA & Algorithmic Thinking** — 500+ problems solved across LeetCode and GeeksforGeeks
 
 ---
 
 ## 🛠️ Skills
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Data & ML**
+**ML & Data**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3C7FC0?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Web & Backend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+**Backend & Web**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-**Data Analyst Intern — Accenture** *(Mar 2026 – Present)*
-Working on data analysis workflows, dashboard reporting, and deriving insights from structured datasets as part of a client-delivery environment.
-
-**Data Science Intern — Sure Trust** *(Jan 2026 – Present)*
-Building ML pipelines, preprocessing real-world datasets, and developing predictive models under mentorship.
-
-**Java & Python Trainee — Ducat Education** *(Jun 2025 – Jul 2025)*
-Completed hands-on training in object-oriented programming, data structures, and Python scripting.
+<table>
+<tr>
+<td width="50">🔵</td>
+<td>
+<strong>Data Analyst Intern — Accenture</strong> &nbsp;<code>Mar 2026 – Present</code><br/>
+Working within a data analytics team on structured reporting workflows, business insight generation, and dashboard development in a client-delivery environment.
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td>🟢</td>
+<td>
+<strong>Data Science Intern — Sure Trust</strong> &nbsp;<code>Jan 2026 – Present</code><br/>
+Building and evaluating ML models, preprocessing real-world datasets, and contributing to end-to-end data science pipelines under senior mentorship.
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td>🟡</td>
+<td>
+<strong>Java & Python Trainee — Ducat Education</strong> &nbsp;<code>Jun 2025 – Jul 2025</code><br/>
+Completed structured training in OOP design, data structures, and core Python scripting fundamentals.
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-> Showing only my best work. Quality over quantity.
+> Selected work — built to solve real problems, not to fill a portfolio.
 
 ---
 
-### 📊 [Sales Performance Dashboard](https://github.com/ZahikAbasdar)
-**A Power BI dashboard analyzing regional sales data across multiple product categories.**
+### 🤖 [AI-Data-Analysis-Agent](https://github.com/ZahikAbasdar/AI-Data-Analysis-Agent)
 
-Built an end-to-end data pipeline from raw CSV → cleaned Pandas DataFrame → interactive Power BI report with KPI cards, drill-through filters, and trend analysis.
+**An autonomous agent that ingests raw datasets and surfaces insights without manual querying.**
 
-`Python` `Pandas` `Power BI` `SQL` `Excel`
+Upload a dataset, ask a natural-language question, and the agent selects analysis strategies, runs computations, and returns structured findings. Built on a Python core with a Flask API layer.
 
-📌 *Reduced manual reporting effort; surfaced insights across 5+ product segments.*
+`Python` `Pandas` `Flask` `NLP` `LLM Integration` `REST API`
 
----
-
-### 🤖 [Sentiment Analysis API](https://github.com/ZahikAbasdar)
-**NLP model for classifying text sentiment, served via a Flask REST API.**
-
-Trained a Logistic Regression classifier on a labeled review dataset. Wrapped it in a Flask endpoint with JSON input/output. Deployable on any Python environment.
-
-`Python` `Scikit-Learn` `NLTK` `Flask` `REST API`
-
-📌 *Achieves ~87% accuracy on the test set; structured for real-world integration.*
+📌 *Turns hours of manual EDA into an automated, repeatable, queryable workflow.*
 
 ---
 
-### 🌐 [Personal Portfolio (React + Three.js)](https://personal-pt-react-threejs.vercel.app/)
-**A 3D animated developer portfolio built with React and Three.js.**
+### 🛰️ [Satellite-Socioeconomic-Intelligence](https://github.com/ZahikAbasdar/Satellite-Socioeconomic-Intelligence)
 
-Designed and developed a fully custom portfolio with 3D scene rendering, smooth scroll behavior, and responsive layout. Deployed on Vercel.
+**Correlates satellite imagery features with socioeconomic indicators using ML regression models.**
 
-`React` `Three.js` `JavaScript` `Vercel`
+Combines geospatial data processing with supervised learning to surface development and infrastructure patterns across geographic regions. Designed for policy-relevant analytical outputs.
 
-📌 *Live and accessible; demonstrates frontend depth beyond data roles.*
+`Python` `Geospatial Analysis` `Scikit-Learn` `Pandas` `NumPy` `Data Pipeline`
 
----
-
-### 🗃️ [SQL Data Exploration Project](https://github.com/ZahikAbasdar)
-**Exploratory data analysis on a real-world dataset using only SQL.**
-
-Wrote complex queries (CTEs, window functions, subqueries) to uncover patterns in e-commerce transaction data. Documented findings with annotated SQL and output screenshots.
-
-`MySQL` `SQL` `EDA` `Data Analysis`
-
-📌 *Demonstrates SQL proficiency at an analytics interview level.*
+📌 *Applied ML on non-standard data sources with real-world policy and research implications.*
 
 ---
 
-## 🧩 DSA Practice
+### 📈 [Data-Intelligence-and-Predictive-Analytics-AI](https://github.com/ZahikAbasdar/Data-Intelligence-and-Predictive-Analytics-AI)
 
-I solve data structures and algorithms problems consistently on [LeetCode](https://leetcode.com/u/ZahikAbas) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/user_f3f23u0irh7).
+**An end-to-end predictive analytics system covering ingestion, cleaning, modeling, and reporting.**
 
-**500+ problems solved** across difficulty levels.
+Modular pipeline architecture: raw data → feature engineering → model training (regression/classification) → visualized output. Designed to be dataset-agnostic and reusable across domains.
 
-My practice focuses on problem patterns commonly emphasized in technical screening at top companies:
+`Python` `Scikit-Learn` `Pandas` `Matplotlib` `Seaborn` `Pipeline Design`
 
-| Company Style | Focus Area |
+📌 *Structured as a reusable analytics framework, not a one-off Jupyter notebook.*
+
+---
+
+### 🔍 [AI-Powered-Data-Exploration-Tool](https://github.com/ZahikAbasdar/AI-Powered-Data-Exploration-Tool)
+
+**Automates exploratory data analysis and surfaces statistical patterns from any tabular dataset.**
+
+Generates distribution plots, correlation matrices, outlier flags, and summary statistics automatically. Built for analysts who want EDA depth without repetitive boilerplate code.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `Streamlit` `Statistical Analysis`
+
+📌 *Eliminates the most repetitive phase of data work — EDA setup — in a single command.*
+
+---
+
+### 🎯 [AI-Career-Growth-Engine](https://github.com/ZahikAbasdar/AI-Career-Growth-Engine)
+
+**AI-assisted system for skill gap analysis and career trajectory planning.**
+
+Analyzes a user's current skills against a target role and generates a prioritized learning roadmap. Uses NLP to parse job descriptions and structured output generation to recommend next steps.
+
+`Python` `NLP` `Scikit-Learn` `Flask` `JSON Pipelines` `Text Processing`
+
+📌 *Applies NLP to a high-demand real-world use case with immediately actionable output.*
+
+---
+
+## 🧩 DSA & Problem Solving
+
+<div align="center">
+
+| Platform | Status |
 |---|---|
-| 🟠 Amazon | Arrays, Greedy, Two Pointers |
-| 🔵 Google | Graphs, BFS/DFS, Dynamic Programming |
-| 🟦 Microsoft | Trees, Recursion, Sliding Window |
-| 🟡 Goldman Sachs | Sorting, Heaps, Math |
-| 🟢 Infosys / TCS | Strings, Hash Maps, Basic Algorithms |
+| [LeetCode](https://leetcode.com/u/ZahikAbas) | 500+ problems solved |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/profile/user_f3f23u0irh7) | Active practitioner |
 
-> *These represent problem-solving practice focus areas — not employment or affiliation.*
+</div>
+
+Consistent focus on patterns that appear in technical screenings at top companies:
+
+| Company Style | Practice Focus |
+|---|---|
+| 🟠 **Amazon** | Arrays, Two Pointers, Greedy, Sliding Window |
+| 🔵 **Google** | Graphs, BFS/DFS, Dynamic Programming, Backtracking |
+| 🟦 **Microsoft** | Trees, Recursion, Binary Search, Stack & Queue |
+| 🟡 **Goldman Sachs** | Sorting, Heaps, Math & Number Theory |
+| 🟣 **Adobe** | Strings, Hash Maps, Pattern Matching |
+| 🟢 **Infosys / TCS** | Core Algorithms, Logic, Complexity Analysis |
+
+> ⚠️ *These represent personal problem-solving practice focus areas — not employment, affiliation, or any assessment by the listed companies.*
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZahikAbasdar&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahikAbasdar&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZahikAbasdar&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=21262d&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahikAbasdar&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d&langs_count=6" />
 
 </div>
 
-<div align="center">
+<div align="center"><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ZahikAbasdar&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ZahikAbasdar&theme=github-dark-blue&background=0d1117&border=21262d&ring=58a6ff&fire=ff7b54&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
-<div align="center">
+<div align="center"><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahikAbasdar&bg_color=0d1117&color=58a6ff&line=2c5364&point=58a6ff&area=true&area_color=2c5364&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahikAbasdar&bg_color=0d1117&color=58a6ff&line=1a3a5c&point=58a6ff&area=true&area_color=1a3a5c&hide_border=true&radius=6" width="96%"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+## 🔭 Currently Focused On
 
-- Building production-grade ML projects with clear business impact
-- Deepening SQL and data modeling skills for analytics roles
-- Solving 10+ DSA problems per week
-- Writing technical articles on [Medium](https://medium.com/@zahikabas.btec) about data and ML topics
-- Open to **freelance data projects**, **analyst roles**, and **AI engineering opportunities**
+```
+▸ Building production-quality AI and data projects with real use cases
+▸ Deepening SQL, data modeling, and analytics engineering skills
+▸ Solving 10+ DSA problems weekly — consistent improvement over time
+▸ Writing on Medium: documenting what I learn in data and ML
+▸ Open to: analyst roles, ML engineering projects, freelance data work
+```
 
 ---
 
 ## 📬 Let's Connect
 
-| Platform | Link |
+<div align="center">
+
+| | |
 |---|---|
-| 📧 Email | [zahikabas.btec@gmail.com](mailto:zahikabas.btec@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/zahik-abas-2646572a4](https://www.linkedin.com/in/zahik-abas-2646572a4/) |
-| 🌐 Portfolio | [personal-pt-react-threejs.vercel.app](https://personal-pt-react-threejs.vercel.app/) |
-| 📝 Medium | [medium.com/@zahikabas.btec](https://medium.com/@zahikabas.btec) |
-| 💻 LeetCode | [leetcode.com/u/ZahikAbas](https://leetcode.com/u/ZahikAbas) |
+| 📧 **Email** | [zahikabas.btec@gmail.com](mailto:zahikabas.btec@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/zahik-abas-2646572a4](https://www.linkedin.com/in/zahik-abas-2646572a4/) |
+| 🌐 **Portfolio** | [personal-pt-react-threejs.vercel.app](https://personal-pt-react-threejs.vercel.app/) |
+| 📝 **Medium** | [medium.com/@zahikabas.btec](https://medium.com/@zahikabas.btec) |
+| 💻 **LeetCode** | [leetcode.com/u/ZahikAbas](https://leetcode.com/u/ZahikAbas) |
+| 🐙 **GitHub** | [github.com/ZahikAbasdar](https://github.com/ZahikAbasdar) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Available for full-time, part-time, and freelance opportunities.<br/>Response time: within 24 hours.</i>
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,80:1a1f35,100:0d1117&height=100&section=footer&text=Built%20with%20focus.%20Open%20to%20opportunity.&fontSize=14&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>

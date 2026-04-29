@@ -1,270 +1,210 @@
-<!--  HERO  -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Zahik Abass
-</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Data+Analyst+%7C+Software+Engineer+%7C+UI%2FUX+Specialist;Building+OmniData+Insight+Engine+(World+Scale+AI%2FML);Chatbots+%7C+Data+Pipelines+%7C+Cloud+%7C+DevOps;Always+learning%2C+never+getting+tired+⚡"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zahikabasdar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<!--  ABOUT  -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-I’m a passionate <strong>Software Engineer &amp; Data Analyst</strong> from India, working across<br/>
-<strong>Data Analytics, AI/ML, Prompt Engineering, APIs, DevOps and UI/UX</strong>.  
-</p>
-
-<p align="center">
-Currently building <strong>OmniData Insight Engine</strong> – a <strong>world-scale data analytics &amp; AI/ML platform</strong>  
-for turning raw data into intelligent, real-time decisions.
-</p>
-
-<p align="center">
-Worked with <strong>Amazon, Future Tech, Delta X</strong> and an active <strong>ABFI Member</strong>.  
-<br/><strong>Fun Fact:</strong> I never get tired! ⚡
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<!--  WORKING ON  -->
-<h2 align="center">🚀 What I'm Working On</h2>
-
-<ul>
-  <li>
-    <strong>Flagship Project (World-Scale Data &amp; AI/ML)</strong><br/>
-    <strong>OmniData Insight Engine</strong> – End-to-end data analytics &amp; AI/ML platform (in progress)
-  </li>
-  <br/>
-  <li>
-    <strong>Current Projects</strong>
-    <ul>
-      <li><a href="https://github.com/zahikabasdar/lostfound-portal">LostFound-Portal</a> – JavaScript</li>
-      <li><a href="https://github.com/zahikabasdar/Smart-Time-Table">Smart-Time-Table</a> – CSS</li>
-      <li><a href="https://github.com/zahikabasdar/smart-chatbot-zahik">Smart-Chatbot-Zahik</a></li>
-      <li><a href="https://github.com/zahikabasdar/smart-route-optimizer">Smart-Route-Optimizer</a> – HTML</li>
-      <li>Parkings (Private) – Software &amp; Hardware Project</li>
-      <li><a href="https://github.com/zahikabasdar/ZahikAbasdar">ZahikAbasdar</a> – Public Repo</li>
-    </ul>
-  </li>
-  <br/>
-  <li><strong>Learning:</strong> Data Analysis, Machine Learning, GenAI, LLMs, MLOps</li>
-  <li><strong>Collaboration:</strong> Open to Chatbot, Data, and AI/ML initiatives</li>
-</ul>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<!--  SKILLS  -->
-<h2 align="center">🛠️ Tech Stack (Animated)</h2>
-
-<p align="center">
-  <em>Scroll to feel the stack ↘</em>
-</p>
-
-<marquee behavior="alternate" direction="left" scrollamount="7">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"></a>
-  <a href="https://www.javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JS"></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" alt="Next.js"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="SQL"></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js"></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45" alt="Illustrator"></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45" alt="Photoshop"></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45" height="45" alt="Unity"></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"></a>
-  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"></a>
-</marquee>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<!--  CONNECT  -->
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/zahik-abas-2646572a4/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"></a>
-  <a href="https://twitter.com/darzahik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"></a>
-  <a href="https://codepen.io/zaaahik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" alt="CodePen"></a>
-  <a href="https://codesandbox.com/dar-zahik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" alt="CodeSandbox"></a>
-  <a href="https://www.youtube.com/c/inspace_08" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"></a>
-  <a href="https://www.hackerrank.com/zahikabas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"></a>
-  <a href="https://www.leetcode.com/zahik01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"></a>
-  <a href="https://discord.gg/ZAHIKABASDAR" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord"></a>
-  <a href="https://instagram.com/zaaahikabaaas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"></a>
-  <a href="https://fb.com/zahikabasdar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<!--  PROJECT PORTFOLIO  -->
-<h2 align="center">💼 Project Portfolio</h2>
-
 <div align="center">
 
-<table>
-  <tr>
-    <th align="left">Area</th>
-    <th align="left">Projects</th>
-  </tr>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header&text=Zahik%20Abas&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-  <tr>
-    <td><strong>AI &amp; Intelligence Platforms</strong></td>
-    <td>
-      • <strong>OmniData Insight Engine</strong> – World-scale Data Analytics &amp; AI/ML Platform (Flagship)<br/>
-      • <a href="https://github.com/zahikabasdar/employee-insights-hub">Employee Insights Hub</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/Retail-Product-Intelligence-Engine">Retail Product Intelligence Engine</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/Medicalpedia">Medicalpedia</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/All-in-one-ai">All-in-One AI Suite</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/universal-knowledge-engine">Universal Knowledge Engine</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/REALITY-OPERATING-SYSTEM-R-OS-">Reality Operating System (R-OS)</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/AI-Fitness-Trainer">AI Fitness Trainer</a>
-    </td>
-  </tr>
+<h3>Data Analyst · AI Engineer · Problem Solver</h3>
 
-  <tr>
-    <td><strong>Chat, Hybrid &amp; System Apps</strong></td>
-    <td>
-      • <a href="https://github.com/zahikabasdar/hybrid-chat">Hybrid Chat Framework</a> – <code>C</code><br/>
-      • <a href="https://github.com/zahikabasdar/code-universe">Code Universe</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/air-canvas-draw">Air Canvas Draw</a> – <code>TypeScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/resume-maker">Resume Maker Studio</a> – <code>TypeScript</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Web &amp; Portal Projects</strong></td>
-    <td>
-      • <a href="https://github.com/zahikabasdar/student-result-system">Student Result System</a> – <code>HTML</code><br/>
-      • <a href="https://github.com/zahikabasdar/ecotrack">EcoTrack</a> – <code>HTML</code><br/>
-      • <a href="https://github.com/zahikabasdar/retail-inventory-billing-system">Retail Inventory Billing System</a> – <code>HTML</code><br/>
-      • <a href="https://github.com/zahikabasdar/lostfound-portal">Lost &amp; Found Portal</a> – <code>JavaScript</code><br/>
-      • <a href="https://github.com/zahikabasdar/Smart-Time-Table">Smart Time Table</a> – <code>CSS</code><br/>
-      • <a href="https://github.com/zahikabasdar/smart-route-optimizer">Smart Route Optimizer</a> – <code>HTML</code><br/>
-      • <a href="https://github.com/zahikabasdar/Tourism-Management-System">Tourism Management System</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Backend &amp; Full Stack</strong></td>
-    <td>
-      • <a href="https://github.com/zahikabasdar/Alumni-Meet-Planning-System">Alumni Meet Planning System</a> – <code>Python (Flask + SQLite)</code><br/>
-      • <a href="https://github.com/zahikabasdar/smart-chatbot-zahik">Smart Chatbot Zahik</a><br/>
-      • Student Attendance Tracker<br/>
-      • DigitalLocker Project
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Private / In-Progress Builds</strong></td>
-    <td>
-      • <strong>PCTE Bus Buddy</strong> – Campus Transit Assistant – <code>TypeScript</code> (Private)<br/>
-      • <strong>Bus Vue Dashboard</strong> – Real-time Bus Monitoring – <code>TypeScript</code> (Private)<br/>
-      • <strong>Livestock Zenith Suite</strong> – Smart Livestock &amp; Farm Ops – <code>TypeScript</code> (Private)<br/>
-      • <strong>Campus Ignite Lab</strong> – Events &amp; Innovation Hub – <code>TypeScript</code> (Private)<br/>
-      • <strong>Green Footprints</strong> – Sustainability &amp; Carbon Tracker – <code>TypeScript</code> (Private)<br/>
-      • <strong>SmartParking IoT System</strong> – Software + Hardware Parking Automation (Private)<br/>
-      • <strong>Tourism Management – Advanced Edition</strong> – Enhanced private fork (Private)<br/>
-      • <strong>100 Days of Python Practice</strong> – Learning &amp; Experiments – <code>HTML</code> (Private)
-    </td>
-  </tr>
-</table>
-
-<p align="left">
-Maintaining <strong>30+ repositories</strong> (public + private) across <strong>TypeScript, JavaScript, Python, C, HTML, CSS</strong> and more.  
-Dynamic cards below show live <strong>repo count, languages &amp; contributions</strong>.
+<p>
+  <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zahik%20Abas-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zahikabas.btec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zahikabas.btec@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://personal-pt-react-threejs.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@zahikabas.btec">
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ZahikAbasdar&style=flat-square&color=2c5364&label=Profile+Views"/>
 </p>
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
+---
 
-<!--  GITHUB STATS  -->
-<h2 align="center">📌 GitHub Stats (Live)</h2>
+## 👋 About Me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahikabasdar&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
+I'm a **Data Analyst and AI Engineer** currently interning at **Accenture** (Data Analytics) and **Sure Trust** (Data Science), building a foundation in real-world data pipelines and machine learning systems.
 
-<!-- streak + top languages by commit ON SAME ROW -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zahikabasdar&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Commit" height="180" />
-</p>
+I'm based in **Sopore, J&K, India** and actively seeking **full-time, part-time, and freelance roles** where I can contribute to data-driven products and AI-powered solutions.
 
-<!-- stats + repos per language ON SAME ROW -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahikabasdar&theme=tokyonight" alt="Stats Card" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahikabasdar&theme=tokyonight" alt="Top Languages by Repo" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<!--  ACTIVITY GRAPH  -->
-<h2 align="center">🔥 Live GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahikabasdar&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<!--  HIGHLIGHTS  -->
-<h2 align="center">🏆 Highlights &amp; Experience</h2>
-
-<ul>
-  <li><strong>Amazon | Delta X | Future Tech</strong></li>
-  <li><strong>ABFI Member</strong></li>
-  <li>8,000+ followers &amp; 500+ professional connections</li>
-  <li>Based in <strong>Sopore, Jammu &amp; Kashmir, India</strong></li>
-</ul>
+My work sits at the intersection of **data analysis**, **ML engineering**, and **applied problem solving** — taking raw data from messy to meaningful.
 
 ---
 
-### 📫 Contact Me
-- **Email:** zahikabas.btec@gmail.com  
-- **LinkedIn:** <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/">linkedin.com/in/zahik-abas-2646572a4</a>  
+## 🔧 What I Do
+
+- **Data Analysis & Visualization** — Translating business questions into SQL queries, dashboards (Power BI, Tableau), and actionable insights
+- **Machine Learning & NLP** — Building and evaluating models for classification, regression, and text analysis tasks
+- **Data Engineering (Basics)** — Designing clean ETL workflows with Python, Pandas, and Flask APIs
+- **Full-Stack Prototyping** — React + Node.js frontends connected to ML backends for end-to-end demos
+- **DSA & Algorithmic Thinking** — 500+ problems solved; consistent practice on LeetCode and GeeksforGeeks
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="250" alt="Thanks">
-</p>
+## 🛠️ Skills
 
-<p align="center">
-  <strong>✨ Thanks for scrolling! Let’s build something insane with Data &amp; AI/ML. ✨</strong>
-</p>
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Data & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Web & Backend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Data Analyst Intern — Accenture** *(Mar 2026 – Present)*
+Working on data analysis workflows, dashboard reporting, and deriving insights from structured datasets as part of a client-delivery environment.
+
+**Data Science Intern — Sure Trust** *(Jan 2026 – Present)*
+Building ML pipelines, preprocessing real-world datasets, and developing predictive models under mentorship.
+
+**Java & Python Trainee — Ducat Education** *(Jun 2025 – Jul 2025)*
+Completed hands-on training in object-oriented programming, data structures, and Python scripting.
+
+---
+
+## 🚀 Featured Projects
+
+> Showing only my best work. Quality over quantity.
+
+---
+
+### 📊 [Sales Performance Dashboard](https://github.com/ZahikAbasdar)
+**A Power BI dashboard analyzing regional sales data across multiple product categories.**
+
+Built an end-to-end data pipeline from raw CSV → cleaned Pandas DataFrame → interactive Power BI report with KPI cards, drill-through filters, and trend analysis.
+
+`Python` `Pandas` `Power BI` `SQL` `Excel`
+
+📌 *Reduced manual reporting effort; surfaced insights across 5+ product segments.*
+
+---
+
+### 🤖 [Sentiment Analysis API](https://github.com/ZahikAbasdar)
+**NLP model for classifying text sentiment, served via a Flask REST API.**
+
+Trained a Logistic Regression classifier on a labeled review dataset. Wrapped it in a Flask endpoint with JSON input/output. Deployable on any Python environment.
+
+`Python` `Scikit-Learn` `NLTK` `Flask` `REST API`
+
+📌 *Achieves ~87% accuracy on the test set; structured for real-world integration.*
+
+---
+
+### 🌐 [Personal Portfolio (React + Three.js)](https://personal-pt-react-threejs.vercel.app/)
+**A 3D animated developer portfolio built with React and Three.js.**
+
+Designed and developed a fully custom portfolio with 3D scene rendering, smooth scroll behavior, and responsive layout. Deployed on Vercel.
+
+`React` `Three.js` `JavaScript` `Vercel`
+
+📌 *Live and accessible; demonstrates frontend depth beyond data roles.*
+
+---
+
+### 🗃️ [SQL Data Exploration Project](https://github.com/ZahikAbasdar)
+**Exploratory data analysis on a real-world dataset using only SQL.**
+
+Wrote complex queries (CTEs, window functions, subqueries) to uncover patterns in e-commerce transaction data. Documented findings with annotated SQL and output screenshots.
+
+`MySQL` `SQL` `EDA` `Data Analysis`
+
+📌 *Demonstrates SQL proficiency at an analytics interview level.*
+
+---
+
+## 🧩 DSA Practice
+
+I solve data structures and algorithms problems consistently on [LeetCode](https://leetcode.com/u/ZahikAbas) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/user_f3f23u0irh7).
+
+**500+ problems solved** across difficulty levels.
+
+My practice focuses on problem patterns commonly emphasized in technical screening at top companies:
+
+| Company Style | Focus Area |
+|---|---|
+| 🟠 Amazon | Arrays, Greedy, Two Pointers |
+| 🔵 Google | Graphs, BFS/DFS, Dynamic Programming |
+| 🟦 Microsoft | Trees, Recursion, Sliding Window |
+| 🟡 Goldman Sachs | Sorting, Heaps, Math |
+| 🟢 Infosys / TCS | Strings, Hash Maps, Basic Algorithms |
+
+> *These represent problem-solving practice focus areas — not employment or affiliation.*
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZahikAbasdar&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahikAbasdar&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ZahikAbasdar&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahikAbasdar&bg_color=0d1117&color=58a6ff&line=2c5364&point=58a6ff&area=true&area_color=2c5364&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- Building production-grade ML projects with clear business impact
+- Deepening SQL and data modeling skills for analytics roles
+- Solving 10+ DSA problems per week
+- Writing technical articles on [Medium](https://medium.com/@zahikabas.btec) about data and ML topics
+- Open to **freelance data projects**, **analyst roles**, and **AI engineering opportunities**
+
+---
+
+## 📬 Let's Connect
+
+| Platform | Link |
+|---|---|
+| 📧 Email | [zahikabas.btec@gmail.com](mailto:zahikabas.btec@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/zahik-abas-2646572a4](https://www.linkedin.com/in/zahik-abas-2646572a4/) |
+| 🌐 Portfolio | [personal-pt-react-threejs.vercel.app](https://personal-pt-react-threejs.vercel.app/) |
+| 📝 Medium | [medium.com/@zahikabas.btec](https://medium.com/@zahikabas.btec) |
+| 💻 LeetCode | [leetcode.com/u/ZahikAbas](https://leetcode.com/u/ZahikAbas) |
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
+</div>

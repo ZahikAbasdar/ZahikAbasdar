@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/profile.jpg" width="140" height="140" style="border-radius:50%;border:3px solid #58a6ff;" alt="Zahik Abas"/>
+<img src="assets/profile.jpg" width="500" height="500" style="border-radius:50%;border:3px solid #58a6ff;" alt="Zahik Abas"/>
 
 <br/><br/>
 
@@ -113,16 +113,7 @@ Built interactive Power BI dashboards & KPI reports; automated data-cleaning wor
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZahikAbasdar&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=21262d&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahikAbasdar&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d&langs_count=8"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ZahikAbasdar&theme=github-dark-blue&background=0d1117&border=21262d&ring=58a6ff&fire=ff7b54&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZahikAbasdar&theme=darkhub&no-frame=true&row=1&column=7"/>
 
 <br/><br/>
 

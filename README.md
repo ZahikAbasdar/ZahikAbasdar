@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="assets/profile.jpg" width="500" height="500" style="border-radius:50%;border:3px solid #58a6ff;" alt="Zahik Abas"/>
+<img src="assets/profile.jpg" width="180" height="180" style="border-radius:50%;border:3px solid #58a6ff;" alt="Zahik Abas"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Analyst+%7C+AI+Engineer;Ex-SDE+Intern+%40+Amazon+India;700%2B+DSA+%26+SQL+Problems+Solved;Turning+Data+Into+Decisions%2C+Ideas+Into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Agentic+AI+%7C+Generative+AI+%7C+Data+Science;Data+Analyst+%7C+Software+Design;Ex-SDE+Intern+%40+Amazon+India;700%2B+DSA+%26+SQL+Problems+Solved)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ZahikAbasdar&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
@@ -17,13 +17,13 @@
 </p>
 
 <p>
-  <a href="mailto:zahikabas.btec@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ZahikAbasdar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ZahikAbas/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/user_f3f23u0irh7"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://medium.com/@zahikabas.btec"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://personal-pt-react-threejs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:zahikabas.btec@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/></a>&nbsp;
+  <a href="https://github.com/ZahikAbasdar"><img src="https://cdn.simpleicons.org/github/181717" width="20"/></a>&nbsp;
+  <a href="https://leetcode.com/u/ZahikAbas/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/></a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/user_f3f23u0irh7"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="20"/></a>&nbsp;
+  <a href="https://medium.com/@zahikabas.btec"><img src="https://cdn.simpleicons.org/medium/000000" width="20"/></a>&nbsp;
+  <a href="https://personal-pt-react-threejs.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="20"/></a>
 </p>
 
 </div>
@@ -32,13 +32,68 @@
 
 ## 🧠 Who I Am
 
-Software Engineer and Data Analyst based in **Sopore, Jammu & Kashmir, India**, with hands-on experience across **Python, Java, SQL, Machine Learning, Power BI, and Data Visualization**. I've built AI-powered applications, scalable data pipelines, predictive analytics models, and geospatial intelligence systems in real internship environments — including a stint as an **SDE Intern at Amazon India**. Currently open to **full-time roles, internships, and freelance/contract data or ML work**.
+I'm a **Software Engineer** first — someone who builds systems that ship, scale, and hold up in production. On top of that core, I specialize across **Agentic AI, Generative AI, Data Science, Data Analytics, and Software Design**, giving me range from writing clean backend architecture to building AI agents to shipping BI dashboards.
+
+Based in **Sopore, Jammu & Kashmir, India**, with real-world experience at **Amazon India, Sure Trust, and Accenture**. Currently open to **full-time roles, internships, and freelance/contract work**.
+
+<br>
+
+## 🧩 Areas of Expertise
+
+<table width="100%">
+<tr>
+<td width="20%" align="center">
+
+**👨‍💻**<br/>**Software Engineer**
+<sub>Clean architecture, DSA, system design, scalable backend & full-stack builds</sub>
+
+</td>
+<td width="20%" align="center">
+
+**🤖**<br/>**Agentic AI**
+<sub>Autonomous agents, tool-use pipelines, LLM orchestration & multi-step reasoning systems</sub>
+
+</td>
+<td width="20%" align="center">
+
+**✨**<br/>**Generative AI**
+<sub>LLM-powered apps, NLP, prompt engineering, resume/job-matching & content generation</sub>
+
+</td>
+<td width="20%" align="center">
+
+**📊**<br/>**Data Science**
+<sub>Predictive modeling, EDA, ML pipelines, geospatial & computer vision analytics</sub>
+
+</td>
+<td width="20%" align="center">
+
+**📈**<br/>**Data Analyst**
+<sub>SQL, Power BI, Tableau, KPI reporting, ETL automation & business intelligence</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>+ <b>Software Design</b> — architecting maintainable, well-structured systems across every project above</sub></p>
 
 <br>
 
 <div align="center">
 <img src="assets/tech-orbit.svg" width="420"/>
 <br/><sub>my core stack, orbiting</sub>
+</div>
+
+<br>
+
+<div align="center">
+<img src="assets/terminal.svg" width="600"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="assets/skills-bars.svg" width="600"/>
 </div>
 
 <br>
@@ -54,6 +109,11 @@ Software Engineer and Data Analyst based in **Sopore, Jammu & Kashmir, India**, 
 **Data Science, ML & Analytics**
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+**Agentic & Generative AI**
+<p align="center">
+<img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 <br>
@@ -113,15 +173,13 @@ Built interactive Power BI dashboards & KPI reports; automated data-cleaning wor
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ZahikAbasdar&theme=github-dark-blue&background=0d1117&border=21262d&ring=58a6ff&fire=ff7b54&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+<img src="https://streak-stats.demolab.com?user=ZahikAbasdar&theme=github-dark-blue&background=0d1117&border=21262d&ring=58a6ff&fire=ff7b54&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
 
 <br/><br/>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 
 </div>
-
-> ⚠️ **The 3D isometric contribution graph above is the real "3D" piece** — it needs a one-time GitHub Action (`yoshi389111/github-profile-3d-contrib`) added to your `ZahikAbasdar/ZahikAbasdar` repo. It generates that exact file path daily from your real commit history. I've written the ready-to-paste workflow below.
 
 ### 🐍 Contribution Snake
 
@@ -201,13 +259,13 @@ Research Team: Zahik Abas, Suman, Harsh, Sumit Kumar — geospatial intelligence
 
 | | |
 |---|---|
-| 📧 Email | [zahikabas.btec@gmail.com](mailto:zahikabas.btec@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/zahik-abas-2646572a4](https://www.linkedin.com/in/zahik-abas-2646572a4/) |
-| 🌐 Portfolio | [personal-pt-react-threejs.vercel.app](https://personal-pt-react-threejs.vercel.app/) |
-| 📝 Medium | [medium.com/@zahikabas.btec](https://medium.com/@zahikabas.btec) |
-| 💻 LeetCode | [leetcode.com/u/ZahikAbas](https://leetcode.com/u/ZahikAbas/) |
-| 🧩 GeeksforGeeks | [geeksforgeeks.org profile](https://www.geeksforgeeks.org/profile/user_f3f23u0irh7) |
-| 🐙 GitHub | [github.com/ZahikAbasdar](https://github.com/ZahikAbasdar) |
+| <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20"/> Email | [zahikabas.btec@gmail.com](mailto:zahikabas.btec@gmail.com) |
+| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> LinkedIn | [linkedin.com/in/zahik-abas-2646572a4](https://www.linkedin.com/in/zahik-abas-2646572a4/) |
+| <img src="https://cdn.simpleicons.org/vercel/000000" width="20"/> Portfolio | [personal-pt-react-threejs.vercel.app](https://personal-pt-react-threejs.vercel.app/) |
+| <img src="https://cdn.simpleicons.org/medium/000000" width="20"/> Medium | [medium.com/@zahikabas.btec](https://medium.com/@zahikabas.btec) |
+| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode | [leetcode.com/u/ZahikAbas](https://leetcode.com/u/ZahikAbas/) |
+| <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="20"/> GeeksforGeeks | [geeksforgeeks.org profile](https://www.geeksforgeeks.org/profile/user_f3f23u0irh7) |
+| <img src="https://cdn.simpleicons.org/github/181717" width="20"/> GitHub | [github.com/ZahikAbasdar](https://github.com/ZahikAbasdar) |
 
 <br/>
 

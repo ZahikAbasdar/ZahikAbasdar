@@ -2,10 +2,6 @@
 
 <img src="assets/banner.svg" width="100%"/>
 
-<br/>
-
-<img src="assets/profile.jpg" width="180" height="180" style="border-radius:50%;border:3px solid #58a6ff;" alt="Zahik Abas"/>
-
 <br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Agentic+AI+%7C+Generative+AI+%7C+Data+Science;Data+Analyst+%7C+Software+Design;Ex-SDE+Intern+%40+Amazon+India;700%2B+DSA+%26+SQL+Problems+Solved)](https://git.io/typing-svg)
